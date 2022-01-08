@@ -1,0 +1,98 @@
+body{
+    margin: 0;
+}
+h1{
+    font-size: 40px;
+    padding: 1px;
+}
+
+.top-heaer-shadow{
+    border-left: 4px solid #ca61b3;
+}
+.top-sect-heah{
+    color: orange;
+}
+section{
+    display: flex;
+    margin: 25px;
+    padding: 30px;
+    background-color: white;
+    
+}
+
+.width-half{
+    width: 100%;
+    padding: 30px;
+    
+}
+.width-half img{
+    width: 50%;
+    padding-top: 20px;
+    padding-left: 30%;
+}
+.top-button{
+    text-decoration: none;
+    font-size: 20px;
+    background-color: rgb(187, 92, 163);
+    padding: 10px 30px;
+    border-radius: 4px;
+    box-shadow: rgb(119, 0, 255);
+    color: rgb(14, 13, 13);
+}
+.button-color{
+    text-decoration: none;
+    font-size: 20px;
+    background-color: tomato;
+    padding: 10px 30px;
+    border-radius: 4px;
+    color: white;
+        
+}
+.third-button{
+    text-decoration: none;
+    font-size: 20px;
+    background-color: rgb(111, 230, 220);
+    padding: 10px 30px;
+    border-radius: 4px;
+    color: rgb(14, 13, 13);
+}
+.mission-heading{
+    text-align: center;
+}
+.mission-div{
+    padding-top: 3%;
+}
+.section-shadow-one{
+    background-color: rgb(223, 165, 192);
+    margin: 5px;
+    border-radius: 15px;
+    text-align: left;  
+}
+.section-shadow-two{
+    background-color: rgb(211, 174, 152);
+    margin: 5px;
+    border-radius: 15px;
+    text-align: left;  
+}
+.section-shadow{
+    background-color: rgb(223, 228, 217);
+    margin: 5px;
+    border-radius: 15px;
+    text-align: left;
+}
+.second-sec-para{
+    text-align: justify;
+    padding-right: 40px;
+}
+
+.bg-color{
+    background-color: rgb(20, 20, 19);
+}
+.footer-clr{
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin: 0;
+.mission-clr{
+    color: yellowgreen;
+}   
